@@ -1,0 +1,18 @@
+body{
+    background:lightcoral;
+}
+h1{
+    color:white;
+    font-family:"dosis";
+    font-weight: bold;
+    text-align:center;
+    }
+
+    .foto{
+        margin-top:50px;
+        text-align:center;
+    }
+    .foto img{
+        mix-blend-mode:darken;
+        width:200px;
+    }
